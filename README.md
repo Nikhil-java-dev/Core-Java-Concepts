@@ -8,30 +8,30 @@ The code focuses on clarity, correct usage of APIs, and real-world relevance rat
 
 ---
 
-##  Concepts Covered
+This repository contains a structured collection of Core Java programs created to practice and demonstrate fundamental Java concepts and Object-Oriented Programming (OOP) principles.
 
-### 🔹 File Handling
-- Reading files using `FileReader`
-- Reading files using `BufferedReader`
-- Reading files using Java NIO (`Files.readString`)
-- Proper exception handling and resource management
+## Topics Covered
+- Encapsulation with validation
+- Inheritance
+- Polymorphism (method overloading & overriding)
+- Abstraction (abstract classes & interfaces)
+- Constructors
+- Collections framework
+- Exception handling
+- String handling
+- File handling
+- multithreading
 
-### 🔹 Multithreading
-- Thread creation using `Thread` and `Runnable`
-- Synchronization and thread safety
-- Real-world examples like ticket booking simulation
+## Purpose
+- Strengthen Core Java fundamentals
+- Practice clean and readable code
+- Build a strong foundation for backend development (JDBC, Servlets, Spring)
 
-### 🔹 Design Patterns
-- Singleton Design Pattern
-  - Eager Initialization
-  - Understanding object uniqueness and global access
+## Technologies
+- Java (Core Java)
+- Eclipse IDE
 
-### 🔹 Exception Handling
-- Try-catch blocks
-- Try-with-resources
-- Custom exception basics
-
----
-
+## Author
+Nikhil
 ## 📂 Project Structure
 
